@@ -14,32 +14,5 @@ npm run start
 
 Tree Structure of mine app
 
-├───src/
-│   ├───asset/
-│   │   └───image/
-│   │       └───episode.png
-│   ├───component/
-│   │   ├───Character.js
-│   │   └───Episode.js
-│   └───navigation/
-│       ├───BottomTab.js
-│       └───Root.js
-├───.buckconfig
-├───.eslintrc.js
-├───.flowconfig
-├───.gitignore
-├───.prettierrc.js
-├───.ruby-version
-├───.watchmanconfig
-├───App.js
-├───Gemfile
-├───Gemfile.lock
-├───README.md
-├───app.json
-├───babel.config.js
-├───index.js
-├───metro.config.js
-├───package-lock.json
-├───package.json
-└───yarn.lock
 
+![Screenshot from 2022-02-04 10-02-17](https://user-images.githubusercontent.com/45630269/152501779-d4cedbf4-2662-47d8-9241-8768e61d64e5.png)
