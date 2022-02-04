@@ -3,7 +3,8 @@
 # Installation
 
 # using npm
-npm install 
+
+npm install
 
 # Running the app
 
@@ -11,19 +12,18 @@ npm run andriod
 
 npm run start
 
-
 Tree Structure of mine app
 
 ├───src/
-│   ├───asset/
-│   │   └───image/
-│   │       └───episode.png
-│   ├───component/
-│   │   ├───Character.js
-│   │   └───Episode.js
-│   └───navigation/
-│       ├───BottomTab.js
-│       └───Root.js
+│ ├───asset/
+│ │ └───image/
+│ │ └───episode.png
+│ ├───component/
+│ │ ├───Character.js
+│ │ └───Episode.js
+│ └───navigation/
+│ ├───BottomTab.js
+│ └───Root.js
 ├───.buckconfig
 ├───.eslintrc.js
 ├───.flowconfig
@@ -42,4 +42,3 @@ Tree Structure of mine app
 ├───package-lock.json
 ├───package.json
 └───yarn.lock
-
